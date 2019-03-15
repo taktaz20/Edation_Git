@@ -8,6 +8,7 @@ using System.Web;
 
 /// <summary>
 /// Summary description for imgcompres
+///test gitub
 /// </summary>
 public class imgcompres
 {
