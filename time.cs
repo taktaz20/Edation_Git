@@ -7,6 +7,7 @@ using System.Globalization;
 /// <summary>
 /// Summary description for time
 /// </summary>
+//test taktaz
 public class time
 {
     static string d2;
